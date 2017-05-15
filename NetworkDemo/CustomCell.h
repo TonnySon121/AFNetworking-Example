@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CustomCell.h
 //  NetworkDemo
 //
 //  Created by Tonny Son on 15/05/2017.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CustomCell : UITableViewCell
 
 @end
-
